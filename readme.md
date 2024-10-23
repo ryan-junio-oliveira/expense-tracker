@@ -22,7 +22,9 @@ Este projeto é uma ferramenta de linha de comando (CLI) em PHP que permite aos 
     ```bash
     php index.php
     ```
-3. Quando solicitado forneça o nome da despesa e o valor da mesma.
+3. Escolha dentre as opções mostradas.
+
+4. Quando solicitado forneça o nome da despesa e o valor da mesma.
 
 ## Referências
 
