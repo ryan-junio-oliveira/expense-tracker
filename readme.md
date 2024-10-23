@@ -1,6 +1,6 @@
-# GitHub User Activity CLI
+# Expense Tracker
 
-Este projeto é uma ferramenta de linha de comando (CLI) em PHP que permite aos usuários consultar as atividades mais recentes de um usuário do GitHub. Ele utiliza a API do GitHub para recuperar e exibir eventos relacionados a um usuário específico.
+Este projeto é uma ferramenta de linha de comando (CLI) em PHP que permite aos usuários cadastrar despesas, realizar a listagem e verificar summario de despesas de acordo com o mês de referência, além é claro, estar deletando as mesmas.
 
 ## Funcionalidades
 
@@ -30,4 +30,4 @@ Este projeto é uma ferramenta de linha de comando (CLI) em PHP que permite aos 
 
 Este projeto segue as diretrizes e estruturas propostas no [roadmap.sh](https://roadmap.sh/projects/expense-tracker).
 
-- Link para o repositório do projeto: [GitHub - GitHub User Activity CLI](https://github.com/ryan-junio-oliveira/expense-tracker)
+- Link para o repositório do projeto: [Expense Tracker](https://github.com/ryan-junio-oliveira/expense-tracker)
